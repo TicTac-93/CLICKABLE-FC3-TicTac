@@ -1,5 +1,5 @@
-# RedK0d Clickable
- A partially clickable mod for the FC3 Planes
+# RedK0d Clickable Cockpits Continued
+ A partially clickable mod for the FC3 Planes.  Originally created by RedK0d, I noticed some issues with the A-10A cockpit (and many with the F-15C) and decided to update it.  I think the FC jets are a great deal, and being able to interact with their cockpits makes the experience of flying them so much more enjoyable.  Not to mention easier than memorizing 101 keybinds!
 
  Supported
  * Su-27  
@@ -7,8 +7,8 @@
  * Su-33  
  * Su-25T  
  * Su-25  
- * A-10A  
- * F-15C   
+ * A-10A (Updated to better match latest model)
+ * ~~F-15C~~ (Needs a full re-do, I think the model was updated)
 
  # INSTALLATION 
 
@@ -18,32 +18,12 @@
 * __Step 2:__ Launch the game.  
  You can manage the activation of the module in the options  
  Lalt+C to click  
- Please report any issues in the dedicated section on Discord or Github  
 
-## Concerning the F-15C it is a little more complex:  
 
-* __Step 1:__ Download and Install Open Mod Manager Available [here](https://github.com/sedenion/OpenModMan/releases)  
-* __Step 2:__ Open the Redk0d Clickable F-15C.omc file contained in CLICKABLE-FC3(version)\DATA\Open Mod Manager  
-* __Step 3:__ Click on "Edit"  
-* __Step 4:__ Click on "Target Destination Folder"   
-* __Step 5:__ Enter your DCS installation directory  
-* __Step 6:__ Click Apply  
-* __Step 7:__ Depending if you have Standalone F-15C or FC3 highlight "F-15C Standalone" or "F-15C With FC3" and click "Install" or "Unistall" if you want to install or uninstall.  
-* __Step 8:__ Fly  
- 
- # SUPPORT US
-3 ways to support us 
+ Please report any issues in the dedicated section on Github
 
-* [Our Store](https://redk0d.gumroad.com/l/fvkodo)   
 
-* [Patreon](https://www.patreon.com/RedK0d)   
-
-* [Paypal](https://www.paypal.com/donate/?hosted_button_id=8RA626VEJD2SC)   
-
- # DISCORD
-Join us on [Discord](https://discord.com/invite/CrExr87dP9)
-
- # SPECIAL THANKS
+ # SPECIAL THANKS (from RedK0d)
  * __Tobsen__                               (Edm Exporter for Blender)  
  * __Grim Reapers,MatAWG and Sklang__       (YouTube content creators)  
  * __Aether,ImAPanzer and Emerald 467__     (For Discord Management)  

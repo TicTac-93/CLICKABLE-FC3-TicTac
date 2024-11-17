@@ -1,3 +1,7 @@
+# TBD v1.2.1a
+
+Updating the A-10A to be better aligned to the model
+
 # 23/04/2023 v1.1.1e-beta
 
 Removed the popup

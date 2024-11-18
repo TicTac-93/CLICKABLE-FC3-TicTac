@@ -1,3 +1,5 @@
+-- Does this need to be updated to also respect the Enable / Disable settings in main menu?
+
 local  aircraft = get_aircraft_type()											--Reading the variable
 if 	aircraft 	== "Su-27" 	or 
 	aircraft 	== "Su-33" 	or 
